@@ -17,7 +17,12 @@
 接著將游標狀態選回點選工具，並點選剛才新增畫板的標題，即可針對此畫板進行編輯。
 如：透過右方的色彩Fill欄位可變更畫布的背景色。
 
-![image](img/AdobeXD_pan.jpg)
+![image](image/0.JPG)
+![image](image/1.JPG)
+![image](image/2.JPG)
+![image](image/2-1.JPG)
+![image](image/3.JPG)
+![image](image/4.JPG)
 
 ## 4.九東方
 (1)九東方形象網頁定板
