@@ -11,7 +11,7 @@
 
 （3）預覽APP，點選右上角的播放按鈕，來預覽目前的範例專案。
 
-![image](img/fb_pic.jpg)
+![image](img/AdobeXD_pan.gif)
 
 ## 4.九東方
 (1)九東方形象網頁定板
